@@ -1,0 +1,19 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #0b0d0e;
+  color: #e6e6e6;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+  scrollbar-width: thin;
+  scrollbar-color: #424040 #272625;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}

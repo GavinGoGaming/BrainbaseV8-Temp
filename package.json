@@ -1,0 +1,27 @@
+{
+  "name": "brainbasev8",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/joy": "^5.0.0-beta.52",
+    "hackclubai-ts": "^1.3.0",
+    "marked": "^18.0.7",
+    "next": "16.2.11",
+    "react": "19.2.4",
+    "react-dom": "19.2.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "babel-plugin-react-compiler": "1.0.0",
+    "typescript": "^5"
+  }
+}
